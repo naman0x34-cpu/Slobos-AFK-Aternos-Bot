@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " entrophx.aternos.me",
+    "ip": " entrophx.aternos.me:13660",
     "port": 13660,
     "version": "26.1.2",
     "try-creative": false
